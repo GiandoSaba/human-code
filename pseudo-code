@@ -23,8 +23,8 @@ FINCHE' c'è un foglio:
     SE lo scanner da errore:
         Riavvio lo scanner
         Ricomincio la procedura
- 
-Prendo il foglio e lo metto da parte (Lista scansionati)
+    Prendo il foglio e lo metto da parte (Lista scansionati)
+
 Al computer salvo il documento in formato .pdf
 
 
